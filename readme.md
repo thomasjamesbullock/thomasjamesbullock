@@ -7,7 +7,7 @@ I’ve managed up to 300 employees at a time with successful leadership assignme
 
 I’ve formally studied mathematics, computer science, business, statistics, and data science across 5 universities over the last 20 years.
 
-I’m fluent in SQL, Python, and Docker with an expertise in time series data and container orchestration.    
+I’m fluent in SQL, Python, and Docker with an expertise in pipeline orchestration (from scratch), time series data analytics/ML, and data science applications in manufacturing.
 
 I can leverage:
 - SQL, Pickle, Parquet, CSV
