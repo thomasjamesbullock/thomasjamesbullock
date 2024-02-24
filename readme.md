@@ -18,19 +18,20 @@ I can leverage:
 - Juypter Notebooks, Google Colab, Visual Studio, MS SSMS
 - Pandas, Numpy, Matlab, Seaborn, Plotly, Statsmodel, Sckitlearn, PyTorch, and many others
 - Exploratory Data Analysis (data cleaning and visualizations) 
-- Statistical Testing (Hypothesis, etc.)
+- Statistical Testing (sampling, hypothesis testing)
+- Baysian Statistics (all flavors, Naive, Markov Chains, decision science applications)
 - Dimensionality Reduction (PCA, FPCA, etc.) 
 - Clustering Analysis (KNN, DBScan, etc.)
 - Regressions (OLS, Lasso, Ridge)
 - Decision Trees (XGBoost, Random Forest)
 - Neural Networks (deep, CNN, RNN)
 - Structured and unstructured data scraping 
-- Natural Language Processing (OpenAI, LLAMA2, vector databases)
+- Natural Language Processing (vector and RAG from scratch, prompt engineering, API orchestration, etc.) 
 - Stochastic Optimization (Model Predictive Control, etc.)
 - Reinforced Learning (Q-Learning, MDP, etc.) 
 - Allen-Bradley PLC (PLC5, Studio 5000 - tag browsing, handshakes, for data movement) 
 - Power BI (dashboarding, pipelines)
-- Streamlit
+- Streamlit (advanced level) 
 - Flask + Jinja w/ HTML/CSS/JS
 
 My career vision is to bridge the gap between management, production, IT, and accounting by solving big problems with automation and data science and then teaching the methodology to everyone who will listen.
