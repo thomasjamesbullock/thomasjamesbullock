@@ -1,5 +1,5 @@
 <b>About Me</b><br>
-I am an experienced production and technical manager turned data scientist with a demonstrated history of success in manufacturing.
+I am an experienced production and technical manager turned data and AI engineer with a demonstrated history of success in manufacturing.
 
 My demeanor is often described by others as high-energy, detail oriented, self-motivated, and forward thinking.
 
