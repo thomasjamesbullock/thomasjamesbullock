@@ -7,11 +7,14 @@ I’ve managed up to 300 employees at a time with successful leadership assignme
 
 I’ve formally studied mathematics, computer science, business, statistics, and data science across 5 universities over the last 20 years.
 
-I’m fluent in SQL, Python, and Excel with an expertise in time series data.  
+I’m fluent in SQL, Python, and Docker with an expertise in time series data and container orchestration.    
 
 I can leverage:
 - SQL, Pickle, Parquet, CSV
-- Git and Azure DevOps
+- Docker (CLI and desktop) 
+- APIs, webhooks (Flask, FastAPI)
+- Git CLI
+- Azure DevOps (Container Apps, Azure Functions, ADLS)
 - Juypter Notebooks, Google Colab, Visual Studio, MS SSMS
 - Pandas, Numpy, Matlab, Seaborn, Plotly, Statsmodel, Sckitlearn, PyTorch, and many others
 - Exploratory Data Analysis (data cleaning and visualizations) 
@@ -23,10 +26,11 @@ I can leverage:
 - Neural Networks (deep, CNN, RNN)
 - Structured and unstructured data scraping 
 - Natural Language Processing (OpenAI, LLAMA2, vector databases)
-- Model Predictive Control
+- Stochastic Optimization (Model Predictive Control, etc.)
 - Reinforced Learning (Q-Learning, MDP, etc.) 
-- Allen-Bradley PLC (PLC5, Studio 5000)
+- Allen-Bradley PLC (PLC5, Studio 5000 - tag browsing, handshakes, for data movement) 
 - Power BI (dashboarding, pipelines)
 - Streamlit
+- Flask + Jinja w/ HTML/CSS/JS
 
 My career vision is to bridge the gap between management, production, IT, and accounting by solving big problems with automation and data science and then teaching the methodology to everyone who will listen.
